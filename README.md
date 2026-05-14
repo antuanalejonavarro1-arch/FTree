@@ -203,15 +203,7 @@ Proyecto académico desarrollado para el análisis de gramáticas libres de cont
 
 ---
 
-# Capturas
 
-Aquí puedes agregar imágenes del programa:
-
-```md
-![Interfaz](imagenes/interfaz.png)
-
-![AST](imagenes/ast.png)
-```
 
 ---
 
